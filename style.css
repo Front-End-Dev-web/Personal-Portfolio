@@ -2206,26 +2206,7 @@ body.active .testimonal-card {
     font-size: 15px;
   }
 }
-.testimonal-card-2 {
-    display: flex;
-    flex-direction: column;
-    height: 60%;
-    width: 14%;
-    justify-content: space-between;
-    align-items: center;
-    button {
-        width: 50px;
-        height: 50px;
-        border-radius: 100px;
-        border: none;
-        font-size: 17px;
-        color: white;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-    }
-}
+
 body.active .testimonal-card-2 {
 
     button {
@@ -2240,8 +2221,8 @@ body.active .testimonal-card-2 {
 }
 
 
-.testimonal-second-card {
-   display: none;
+.testimonal-card-2{
+   display: none !important;
 }
 
 #blogs {
