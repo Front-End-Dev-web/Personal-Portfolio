@@ -2252,6 +2252,7 @@ body.active .testimonal-card-2 {
   justify-content: center;
   align-items: center;
   background-color: #ffffff;
+  padding: 40px 0px;
 }
 body.active #blogs {
   background-color: black;
