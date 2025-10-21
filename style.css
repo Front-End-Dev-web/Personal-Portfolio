@@ -2228,23 +2228,19 @@ body.active .testimonal-card {
   }
 }
 body.active .testimonal-card-2 {
+    display: none !important;
   button {
     background-color: black;
     color: rgb(255, 255, 255);
     display: none;
-  }
-  button:hover {
-    background-color: white;
-    color: black;
-  }
+}
+button:hover {
+      background-color: white;
+      color: black;
+    }
 }
 
-.testimonal-card-2 button:nth-child(1) {
-  background-color: #000000;
-}
-.testimonal-card-2 button:nth-child(2):hover {
-  background-color: #000000;
-}
+
 
 #blogs {
   height: 1500px;
