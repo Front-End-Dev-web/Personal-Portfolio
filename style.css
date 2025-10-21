@@ -852,7 +852,12 @@ body.active .services-outer-card:hover {
   background-repeat: no-repeat;
 }
 .portfolio-card:nth-child(3) {
-  background: url(https://s3-alpha.figma.com/hub/file/1981793211/6de104c5-c22c-4a17-a787-bf5ef6338007-cover.png);
+  height: 400px;
+  width: 30%;
+  border-radius: 10px;
+  /* background-color: #7755ff; */
+  position: relative;
+  background: url(https://miro.medium.com/v2/resize:fit:626/1*r57Rfnk2-rSSb32tpFRtFw.jpeg);
   object-fit: contain;
   background-size: cover;
   background-repeat: no-repeat;
