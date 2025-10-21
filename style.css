@@ -2231,6 +2231,7 @@ body.active .testimonal-card-2 {
   button {
     background-color: black;
     color: rgb(255, 255, 255);
+    display: none;
   }
   button:hover {
     background-color: white;
