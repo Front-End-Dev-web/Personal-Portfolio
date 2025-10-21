@@ -2206,7 +2206,9 @@ body.active .testimonal-card {
     font-size: 15px;
   }
 }
-
+.testimonal-card button{
+    display: none;
+}
 .testimonal-card-2 {
   display: flex;
   flex-direction: column;
