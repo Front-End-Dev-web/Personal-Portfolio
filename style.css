@@ -2065,7 +2065,7 @@ body.active .services-outer-card:hover {
 }
 
 #portfolio {
-  height: 800px;
+  height: 900px;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -2106,7 +2106,7 @@ body.active .services-outer-card:hover {
   gap: 20px;
 }
 .portfolio-card {
-  height: 200px;
+  height: 180px;
   width: 90%;
   border-radius: 10px;
   /* background-color: #7755ff; */
