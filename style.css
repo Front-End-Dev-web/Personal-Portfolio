@@ -852,11 +852,12 @@ body.active .services-outer-card:hover {
   background-repeat: no-repeat;
 }
 .portfolio-card:nth-child(3) {
-  background: url(https://s3-alpha.figma.com/hub/file/4673872725/0be63266-3d5b-4b4c-ad8a-94e96e052560-cover.png);
+  background: url(https://s3-alpha.figma.com/hub/file/1981793211/6de104c5-c22c-4a17-a787-bf5ef6338007-cover.png);
   object-fit: contain;
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 .portfolio-card-heading {
   position: absolute;
   bottom: 0;
