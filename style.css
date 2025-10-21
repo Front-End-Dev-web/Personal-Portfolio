@@ -2158,7 +2158,7 @@ body.active .services-outer-card:hover {
   padding: 0 20px;
 }
 .testimonal-card {
-  height: 80%;
+  height: 90%;
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -2173,7 +2173,7 @@ body.active .testimonal-card {
   box-shadow: 1px 1px 10px 1px rgba(211, 211, 211, 0.329);
 }
 .testimonal-card .testimonal-card-1 {
-  width: 85%;
+  width: 80%;
   display: flex;
   flex-direction: column;
   gap: 20px;
